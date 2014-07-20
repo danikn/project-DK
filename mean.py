@@ -1,3 +1,5 @@
+# Hello!! I'm changing your program.
+
 # print the mean of the numbes given in a file
 import sys
 
