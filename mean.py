@@ -12,3 +12,4 @@ for num in sys.stdin:
 #output:
 print sum / n
 
+print n
